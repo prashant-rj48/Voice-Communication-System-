@@ -44,7 +44,6 @@ Outputs a synchronized data packet pkt containing motion + audio.
 #### TCP/IP Server (Android)
 
 Listens on Port 25000 and sends packets to the receiver over Wi-Fi (local network).![WhatsApp Image 2025-10-10 at 20 47 41_3bca05fd](https://github.com/user-attachments/assets/d129dda0-bba2-4f62-9a0e-43a97fcdfe13)
-![WhatsApp Image 2025-12-07 at 11 38 53_895f3e2f](https://github.com/user-attachments/assets/fa8e944b-cf51-4c8b-96db-dac893e4e271)
 
 ***
 # Receiver (Phone B)
@@ -96,8 +95,6 @@ fcn → reshape/scale to match Android audio driver requirements.
 Plays back the decrypted audio stream.
 
 ![WhatsApp Image 2025-10-10 at 20 48 11_30984f1c](https://github.com/user-attachments/assets/0aef18a6-a6ee-4893-bba4-102c640d0ec8)
-![WhatsApp Image 2025-10-10 at 21 09 04_0d73baa9](https://github.com/user-attachments/assets/410db5ae-4fc1-4991-8b5b-1bbe5e305ce4)  ![WhatsApp Image 2025-10-10 at 21 09 05_272d759c](https://github.com/user-attachments/assets/7a67613f-375a-4af3-b440-143891f71ac9) ![WhatsApp Image 2025-10-10 at 21 09 05_4c1ed38a](https://github.com/user-attachments/assets/248b528e-bcf6-4f18-871f-c4d06ee7eb2f)
-
 
 
 
